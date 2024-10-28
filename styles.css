@@ -48,13 +48,6 @@ section {
     margin: 15px 0;
 }
 
-footer {
-    text-align: center;
-    padding: 10px 0;
-    background: #333;
-    color: #fff;
-}
-
 .portfolio-post {
     margin: 15px 0;
     padding: 10px;
@@ -70,4 +63,11 @@ footer {
 
 form {
     margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
 }
