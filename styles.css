@@ -54,3 +54,20 @@ footer {
     background: #333;
     color: #fff;
 }
+
+.portfolio-post {
+    margin: 15px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #fff;
+}
+
+.portfolio-post img {
+    max-width: 100%;
+    height: auto;
+}
+
+form {
+    margin-bottom: 20px;
+}
